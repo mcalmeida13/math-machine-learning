@@ -1,3 +1,5 @@
 # Machine Learning
-Repository with pandas version of Hidden Markov Models from LazyProgrammer.me
-https://www.udemy.com/course/unsupervised-machine-learning-hidden-markov-models-in-python/
+Repository with pandas version of the courses from LazyProgrammer.me
+https://lazyprogrammer.me/
+
+github.com/lazyprogrammer/machine_learning_examples
