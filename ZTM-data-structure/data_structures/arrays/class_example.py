@@ -11,6 +11,8 @@ class ClassExample:
 
 
 
-wizard = ClassExample('Manuela','Knight')
+knight = ClassExample('Manuela','Knight')
+wizard = ClassExample('Rebecca','Wizard')
 
+knight.introduce()
 wizard.introduce()
