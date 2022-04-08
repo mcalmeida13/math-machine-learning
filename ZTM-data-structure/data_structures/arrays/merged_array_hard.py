@@ -1,5 +1,5 @@
 def mergeSortedArrays(arr1, arr2):
-    # We should actually move these 2 if statements to line 2 so that we do the checks before we do assignments in line 3 and 4!
+
     if (len(arr2) == 0): 
         return arr1
 
